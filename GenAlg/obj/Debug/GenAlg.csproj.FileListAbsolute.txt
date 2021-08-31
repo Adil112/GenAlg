@@ -1,0 +1,7 @@
+D:\Adil\5semestr\Intlekt systems\Laba2\GenAlg\GenAlg\bin\Debug\GenAlg.exe.config
+D:\Adil\5semestr\Intlekt systems\Laba2\GenAlg\GenAlg\bin\Debug\GenAlg.exe
+D:\Adil\5semestr\Intlekt systems\Laba2\GenAlg\GenAlg\bin\Debug\GenAlg.pdb
+D:\Adil\5semestr\Intlekt systems\Laba2\GenAlg\GenAlg\obj\Debug\GenAlg.csprojAssemblyReference.cache
+D:\Adil\5semestr\Intlekt systems\Laba2\GenAlg\GenAlg\obj\Debug\GenAlg.csproj.CoreCompileInputs.cache
+D:\Adil\5semestr\Intlekt systems\Laba2\GenAlg\GenAlg\obj\Debug\GenAlg.exe
+D:\Adil\5semestr\Intlekt systems\Laba2\GenAlg\GenAlg\obj\Debug\GenAlg.pdb
